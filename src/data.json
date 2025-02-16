@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "public",
+    "isFolder": true,
+    "children": [
+      {
+        "id": 2,
+        "name": "logo.svg",
+        "isFolder": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "src",
+    "isFolder": true,
+    "children": [
+      {
+        "id": 4,
+        "name": "components",
+        "isFolder": true,
+        "children": [
+          {
+            "id": 5,
+            "name": "List",
+            "isFolder": true,
+            "children": [
+              {
+                "id": 6,
+                "name": "index.js",
+                "isFolder": false
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "card.tsx",
+            "isFolder": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "App.css",
+        "isFolder": false
+      },
+      {
+        "id": 9,
+        "name": "App.test.js",
+        "isFolder": false
+      },
+      {
+        "id": 10,
+        "name": "index.css",
+        "isFolder": false
+      },
+      {
+        "id": 11,
+        "name": "index.js",
+        "isFolder": false
+      },
+      {
+        "id": 12,
+        "name": "setupTests.js",
+        "isFolder": false
+      },
+      {
+        "id": 13,
+        "name": "reportWebVitals.js",
+        "isFolder": false
+      },
+      {
+        "id": 14,
+        "name": "logo.svg",
+        "isFolder": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "data.json",
+    "isFolder": false
+  }
+]
